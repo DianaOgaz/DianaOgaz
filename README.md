@@ -1,18 +1,20 @@
-### Hi there 👋
+### 🌙 Hi! 🌙
 
 
 - 🔭 I’m currently working on ...
-  Frontend web dev
-  <li>
-  ashu
-  </li>
-  Self-care
-  Learning how to survive in this laboral life.
+  - Proyect manager
+  - Making a personal blog
+  - My self
+  
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+  - Frontend web dev
+    - HTML, CSS
+    - Typescript
+    - Vue, React
+    
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+    - How to survive 
+
 - ⚡ Fun fact: ...
+-   - I love making cosplay.
 -->
