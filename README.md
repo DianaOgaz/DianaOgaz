@@ -13,9 +13,15 @@
         <p>I'm systems engineer who likes cats, existential talks and have a lot of creativity and dreams to live. </p>
         <h4><img src="https://i.pinimg.com/originals/e3/43/ec/e343ec80a8b6af8083e1bd82cac10585.gif" width="40px"
                 height="40px"> Skills! </h4>
-        <div style="padding-left: 20px;"> <img align="center"
-            src="https://github-readme-stats.vercel.app/api/top-langs?username=dianaogaz&show_icons=true&locale=en&layout=compact"
-            alt="dianaogaz" width="300" /></p>
+        <table>
+            <tr>
+                <td>
+                <img align="center"
+                src="https://github-readme-stats.vercel.app/api/top-langs?username=dianaogaz&show_icons=true&locale=en&layout=compact"
+                alt="dianaogaz" width="300" />
+                </td>
+                <td>
+                    <div style="padding-left: 20px;"> 
             <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
                     alt="java" width="40" height="40" /> </a>
@@ -56,6 +62,10 @@
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
                     alt="css3" width="40" height="40" /> </a>
         </div>
+                </td>
+            </tr>
+        </table>
+        
 
 <h4><img src="https://i.pinimg.com/originals/e3/43/ec/e343ec80a8b6af8083e1bd82cac10585.gif" width="40px"
                 height="40px"> Learning... </h4>
