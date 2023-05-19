@@ -13,7 +13,9 @@
         <p>I'm systems engineer who likes cats, existential talks and have a lot of creativity and dreams to live. </p>
         <h4><img src="https://i.pinimg.com/originals/e3/43/ec/e343ec80a8b6af8083e1bd82cac10585.gif" width="40px"
                 height="40px"> Skills! </h4>
-        <div style="padding-left: 20px;">
+        <div style="padding-left: 20px;"> <img align="center"
+            src="https://github-readme-stats.vercel.app/api/top-langs?username=dianaogaz&show_icons=true&locale=en&layout=compact"
+            alt="dianaogaz" width="300" /></p>
             <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
                     alt="java" width="40" height="40" /> </a>
@@ -86,12 +88,10 @@
         </div>
         </div>
     <div style="background-color:rgb(129, 233, 198); width: 50%;">
-        <img align="center"
-            src="https://github-readme-stats.vercel.app/api/top-langs?username=dianaogaz&show_icons=true&locale=en&layout=compact"
-            alt="dianaogaz" width="300" /></p>
-        <img align="center"
-            src="https://github-readme-stats.vercel.app/api?username=dianaogaz&show_icons=true&locale=en"
-            alt="dianaogaz" /></p>
+        
+<img align="center"
+        src="https://github-readme-stats.vercel.app/api?username=dianaogaz&show_icons=true&locale=en"
+        alt="dianaogaz" />
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=wlybfcvmjqkdo9gffdshathq5&cover_image=true&theme=default&show_offline=false&background_color=77767b&interchange=true&bar_color=813d9c)](https://spotify-github-profile.vercel.app/api/view?uid=wlybfcvmjqkdo9gffdshathq5&redirect=true)
 
