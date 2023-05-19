@@ -98,10 +98,7 @@
    <li>I do cosplay for love of the art</li>
    <li>I love cats</li>
    <li>Call me Luna, plz!</li>
-   <li>listening to...</li>
-       
-       
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=wlybfcvmjqkdo9gffdshathq5&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=wlybfcvmjqkdo9gffdshathq5&cover_image=true&theme=natemoo-re&show_offline=false&background_color=1c71d8&interchange=false&bar_color=9141ac&bar_color_cover=false)]]
+     
 
 <h4 align="left"> <img src="https://i.pinimg.com/originals/e3/43/ec/e343ec80a8b6af8083e1bd82cac10585.gif"
                 width="40px" height="40px">Connect with me!:</h4>
