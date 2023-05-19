@@ -118,6 +118,5 @@
         </p>
     </div>
 </div>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=wlybfcvmjqkdo9gffdshathq5&cover_image=true&theme=natemoo-re&show_offline=false&background_color=77767b&                     interchange=true&bar_color=813d9c&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=wlybfcvmjqkdo9gffdshathq5&redirect=true)
 
 
