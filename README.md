@@ -89,9 +89,6 @@
         </div>
     <div style="background-color:rgb(129, 233, 198); width: 50%;">
         
-<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=dianaogaz&show_icons=true&locale=en"
-        alt="dianaogaz" />
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=wlybfcvmjqkdo9gffdshathq5&cover_image=true&theme=default&show_offline=false&background_color=77767b&interchange=true&bar_color=813d9c)](https://spotify-github-profile.vercel.app/api/view?uid=wlybfcvmjqkdo9gffdshathq5&redirect=true)
 
@@ -107,4 +104,6 @@
         </p>
     </div>
 </div>
+
+
 
