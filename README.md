@@ -74,8 +74,9 @@
             <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
                     alt="mongodb" width="40" height="40" /> </a>
-            <p>And another stuffs like...</p>
+            <p>And another stuffs like...
             <li>How to survive in real life </li>
+            </p>
         </div>
 
 <h4> <img src="https://i.pinimg.com/originals/e3/43/ec/e343ec80a8b6af8083e1bd82cac10585.gif" width="40px"
