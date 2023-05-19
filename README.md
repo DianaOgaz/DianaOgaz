@@ -53,10 +53,9 @@
             <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
                     alt="css3" width="40" height="40" /> </a>
-
         </div>
 
-        <h4><img src="https://i.pinimg.com/originals/e3/43/ec/e343ec80a8b6af8083e1bd82cac10585.gif" width="40px"
+<h4><img src="https://i.pinimg.com/originals/e3/43/ec/e343ec80a8b6af8083e1bd82cac10585.gif" width="40px"
                 height="40px"> Learning... </h4>
         <div style="margin-left: 20px;">
             <li>Fontend</li>
@@ -77,7 +76,7 @@
             <li>How to survive in real life </li>
         </div>
 
-        <h4> <img src="https://i.pinimg.com/originals/e3/43/ec/e343ec80a8b6af8083e1bd82cac10585.gif" width="40px"
+<h4> <img src="https://i.pinimg.com/originals/e3/43/ec/e343ec80a8b6af8083e1bd82cac10585.gif" width="40px"
                 height="40px"> Fun Facts! </h4>
         <div style="padding-left: 20px;">
             <li>I like draw and paint in my free time</li>
@@ -85,8 +84,7 @@
             <li>I love cats</li>
             <li>Call me Luna, plz!</li>
         </div>
-
-    </div>
+        </div>
     <div style="background-color:rgb(129, 233, 198); width: 50%;">
         <img align="center"
             src="https://github-readme-stats.vercel.app/api/top-langs?username=dianaogaz&show_icons=true&locale=en&layout=compact"
@@ -94,9 +92,10 @@
         <img align="center"
             src="https://github-readme-stats.vercel.app/api?username=dianaogaz&show_icons=true&locale=en"
             alt="dianaogaz" /></p>
-        [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=wlybfcvmjqkdo9gffdshathq5&cover_image=true&theme=default&show_offline=false&background_color=77767b&interchange=true&bar_color=813d9c)](https://spotify-github-profile.vercel.app/api/view?uid=wlybfcvmjqkdo9gffdshathq5&redirect=true)
 
-        <h4 align="left"> <img src="https://i.pinimg.com/originals/e3/43/ec/e343ec80a8b6af8083e1bd82cac10585.gif"
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=wlybfcvmjqkdo9gffdshathq5&cover_image=true&theme=default&show_offline=false&background_color=77767b&interchange=true&bar_color=813d9c)](https://spotify-github-profile.vercel.app/api/view?uid=wlybfcvmjqkdo9gffdshathq5&redirect=true)
+
+<h4 align="left"> <img src="https://i.pinimg.com/originals/e3/43/ec/e343ec80a8b6af8083e1bd82cac10585.gif"
                 width="40px" height="40px">Connect with me!:</h4>
         <p align="left">
             <a href="https://linkedin.com/in/diana ogaz" target="blank"><img align="center"
