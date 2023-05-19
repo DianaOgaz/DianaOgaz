@@ -7,7 +7,7 @@
     
    <div style="display: flex;">
      <div style="background-color: pink; width: 60%;">
-         <h4> <img src="https://i.pinimg.com/originals/e3/43/ec/e343ec80a8b6af8083e1bd82cac10585.gif" width="40px" height="40px"> About me! </h4>
+        <h4> <img src="https://i.pinimg.com/originals/e3/43/ec/e343ec80a8b6af8083e1bd82cac10585.gif" width="40px" height="40px"> About me! </h4>
          <p>I'm systems engineer who likes cats, existential talks and have a lot of creativity and dreams to live. </p>
        
          <h4><img src="https://i.pinimg.com/originals/e3/43/ec/e343ec80a8b6af8083e1bd82cac10585.gif" width="40px" height="40px"> Skills! </h4>
