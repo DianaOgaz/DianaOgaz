@@ -1,22 +1,23 @@
-  <p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=dianaogaz&label=Profile%20views&color=0e75b6&style=flat" alt="dianaogaz" /> 
-    </p> 
-    <div align="center", style="background-color: rgba(215, 149, 235, 0.466);">
-        <img src="https://media.tenor.com/nqMC-PZUsUwAAAAC/studio-ghibli.gif" alt="dianaogaz" />
-    </div>
+   <p align="center"> 
+   <img src="https://komarev.com/ghpvc/?username=dianaogaz&label=Profile%20views&color=0e75b6&style=flat" alt="dianaogaz" /> 
+   </p> 
+   <div align="center", style="background-color: rgba(215, 149, 235, 0.466);">
+    <img src="https://media.tenor.com/nqMC-PZUsUwAAAAC/studio-ghibli.gif" alt="dianaogaz" />
+   </div>
     
    <div style="display: flex;">
-        <div style="background-color: pink; width: 60%;">
-            <h4> <img src="https://i.pinimg.com/originals/e3/43/ec/e343ec80a8b6af8083e1bd82cac10585.gif" width="40px" height="40px"> About me! </h4>
-            <p>I'm systems engineer who likes cats, existential talks and have a lot of creativity and dreams to live. </p>
-            <h4><img src="https://i.pinimg.com/originals/e3/43/ec/e343ec80a8b6af8083e1bd82cac10585.gif" width="40px" height="40px"> Skills! </h4>
+     <div style="background-color: pink; width: 60%;">
+         <h4> <img src="https://i.pinimg.com/originals/e3/43/ec/e343ec80a8b6af8083e1bd82cac10585.gif" width="40px" height="40px"> About me! </h4>
+         <p>I'm systems engineer who likes cats, existential talks and have a lot of creativity and dreams to live. </p>
+       
+         <h4><img src="https://i.pinimg.com/originals/e3/43/ec/e343ec80a8b6af8083e1bd82cac10585.gif" width="40px" height="40px"> Skills! </h4>
         <div style="padding-left: 20px;">
         <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
         <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>   
         <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
         <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40"               height="40"/> </a> 
         <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
         <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
         <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
@@ -25,8 +26,8 @@
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
         <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 
-</div>
-<h4><img src="https://i.pinimg.com/originals/e3/43/ec/e343ec80a8b6af8083e1bd82cac10585.gif" width="40px" height="40px"> Learning... </h4>
+  </div>
+  <h4><img src="https://i.pinimg.com/originals/e3/43/ec/e343ec80a8b6af8083e1bd82cac10585.gif" width="40px" height="40px"> Learning... </h4>
         <div style="margin-left: 20px;">
             <li>Fontend</li>
             <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
