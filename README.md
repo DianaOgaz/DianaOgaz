@@ -85,6 +85,7 @@
             <li>I do cosplay for love of the art</li>
             <li>I love cats</li>
             <li>Call me Luna, plz!</li>
+            <li>listening to...</li>
         </div>
         </div>
     <div style="background-color:rgb(129, 233, 198); width: 50%;">
