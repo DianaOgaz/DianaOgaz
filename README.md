@@ -108,7 +108,3 @@
     </div>
 </div>
 
-<div align="center" style="background-color: plum;">
-    <img src="https://cdna.artstation.com/p/assets/images/images/052/565/508/large/hasuke-asuna224.jpg?1660128853"
-        alt="" width="500" height="300">
-</div>
