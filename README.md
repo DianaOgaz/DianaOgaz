@@ -90,7 +90,7 @@
     <div style="background-color:rgb(129, 233, 198); width: 50%;">
         
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=wlybfcvmjqkdo9gffdshathq5&cover_image=true&theme=default&show_offline=false&background_color=77767b&interchange=true&bar_color=813d9c)](https://spotify-github-profile.vercel.app/api/view?uid=wlybfcvmjqkdo9gffdshathq5&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=wlybfcvmjqkdo9gffdshathq5&cover_image=true&theme=natemoo-re&show_offline=false&background_color=77767b&interchange=true&bar_color=813d9c&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=wlybfcvmjqkdo9gffdshathq5&redirect=true)
 
 <h4 align="left"> <img src="https://i.pinimg.com/originals/e3/43/ec/e343ec80a8b6af8083e1bd82cac10585.gif"
                 width="40px" height="40px">Connect with me!:</h4>
