@@ -121,7 +121,7 @@
    <li>Call me Luna, plz!</li>
   </td>
   </td>
-
+</table>
 
 <h4 align="left"> <img src="https://i.pinimg.com/originals/e3/43/ec/e343ec80a8b6af8083e1bd82cac10585.gif"
                 width="40px" height="40px">Connect with me!:</h4>
@@ -133,6 +133,5 @@
                     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
                     alt="luna" height="30" width="40" /></a>
         </p>
-</table>
 
 
