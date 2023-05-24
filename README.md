@@ -16,6 +16,18 @@
 		About me! 
 		</h4>
     </td>
+		<td>
+		<h4 align="left"> <img src="https://i.pinimg.com/originals/e3/43/ec/e343ec80a8b6af8083e1bd82cac10585.gif"
+                width="40px" height="40px">Connect with me!:</h4>
+       		<p align="left">
+                <a href="https://linkedin.com/in/diana ogaz" target="blank"><img align="center"
+                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+                alt="diana ogaz" height="30" width="40" /></a>
+            	<a href="https://stackoverflow.com/users/luna" target="blank"><img align="center"
+                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
+                alt="luna" height="30" width="40" /></a>
+        	</p>
+		</td>
     </tr>
     <tr>
    	<td>
@@ -123,15 +135,6 @@
   </td>
 </table>
 
-<h4 align="left"> <img src="https://i.pinimg.com/originals/e3/43/ec/e343ec80a8b6af8083e1bd82cac10585.gif"
-                width="40px" height="40px">Connect with me!:</h4>
-        <p align="left">
-            <a href="https://linkedin.com/in/diana ogaz" target="blank"><img align="center"
-                    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-                    alt="diana ogaz" height="30" width="40" /></a>
-            <a href="https://stackoverflow.com/users/luna" target="blank"><img align="center"
-                    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
-                    alt="luna" height="30" width="40" /></a>
-        </p>
+
 
 
