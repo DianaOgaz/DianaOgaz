@@ -20,10 +20,10 @@
 		<h4 align="left"> <img src="https://i.pinimg.com/originals/e3/43/ec/e343ec80a8b6af8083e1bd82cac10585.gif"
                 width="40px" height="40px">Connect with me!:</h4>
        		<p align="left">
-                <a href="https://linkedin.com/in/diana ogaz" target="blank"><img align="center"
+                <a href="https://www.linkedin.com/in/diana-ogaz-69b989247/" target="blank"><img align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
                 alt="diana ogaz" height="30" width="40" /></a>
-            	<a href="https://stackoverflow.com/users/luna" target="blank"><img align="center"
+            	<a href="https://stackoverflow.com/users/19557556/diana-ogaz" target="blank"><img align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
                 alt="luna" height="30" width="40" /></a>
         	</p>
@@ -60,18 +60,9 @@
     <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img
     src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40"
     height="40" /> </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-    alt="python" width="40" height="40" /> </a>
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img
     src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
     </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-    alt="javascript" width="40" height="40" /> </a>
-    <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-    alt="sass" width="40" height="40" /> </a>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
     alt="linux" width="40" height="40" /> </a>
@@ -110,6 +101,9 @@
 <tr>
 <td>
   <li>Fontend</li>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+    alt="javascript" width="40" height="40" /> </a>
     <a href="https://angular.io" target="_blank" rel="noreferrer"> <img
     src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40"
     height="40" /> </a>
@@ -119,10 +113,6 @@
     <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
     alt="vuejs" width="40" height="40" /> </a>
-    <li>DB</li>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-    alt="mongodb" width="40" height="40" /> </a>
     <p>And another stuffs like...
     <li>How to survive in real life </li>
     </p>
