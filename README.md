@@ -12,7 +12,7 @@
 	<tr> 
 		<td>
 		<h4> 
-		<img src="https://i.pinimg.com/originals/e3/43/ec/e343ec80a8b6af8083e1bd82cac10585.gif" width="40px"height="40px"> 
+		<img src="https://media2.giphy.com/media/6YGWiAcukAM5vqXbU3/giphy.gif?cid=6c09b952hjli3is29bo1gd63dcdhs4rhahiy0djo7fbbuv01&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="40px"height="40px"> 
 		About me! 
 		</h4>
     </td>
