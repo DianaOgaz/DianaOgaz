@@ -1,9 +1,9 @@
 <p align="center">
-    <img src="https://i.pinimg.com/originals/41/d2/81/41d281714ff42fdbc11677ff6bd4e262.gif"
-        alt="dianaogaz" />
+    
 </p>
-<div align="center" , style="background-color: rgba(215, 149, 235, 0.466);">
-    <img src="https://media.tenor.com/nqMC-PZUsUwAAAAC/studio-ghibli.gif" alt="dianaogaz" />
+<div align="center">
+   <img src="https://i.pinimg.com/originals/41/d2/81/41d281714ff42fdbc11677ff6bd4e262.gif"
+        alt="dianaogaz" />
 </div>
      
      
