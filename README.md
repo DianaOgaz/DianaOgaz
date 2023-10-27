@@ -20,7 +20,7 @@
 		<h4 align="left"> <img src="https://i.pinimg.com/originals/e3/43/ec/e343ec80a8b6af8083e1bd82cac10585.gif"
                 width="40px" height="40px">Connect with me!:</h4>
        		<p align="left">
-                <a href="https://www.linkedin.com/in/diana-ogaz-69b989247/" target="blank"><img align="center"
+                <a href="https://www.linkedin.com/in/diana-ogaz-69b989247" target="blank"><img align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
                 alt="diana ogaz" height="30" width="40" /></a>
             	<a href="https://stackoverflow.com/users/19557556/diana-ogaz" target="blank"><img align="center"
