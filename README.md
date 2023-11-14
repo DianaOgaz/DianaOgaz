@@ -31,9 +31,9 @@
     </tr>
     <tr>
    	<td>
-    <p>I'm systems engineer who likes cats, existential talks  </p> 
-    <br>
-    <p>and have a lot of creativity and dreams to live.</p>
+    <p>Computer systems engineer who loves cats, deep and </p> 
+    <p>conspiratorial talks, loves cats and ducks and makes art in her free time</p>
+    <p>and love cats</p>
     </td>
     <td>
        
@@ -51,6 +51,9 @@
   <tr>
     </td>
     <td>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+    alt="javascript" width="40" height="40" /> </a>
     <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
     alt="java" width="40" height="40" /> </a>
@@ -60,15 +63,9 @@
     <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img
     src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40"
     height="40" /> </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img
-    src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
-    </a>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
     alt="linux" width="40" height="40" /> </a>
-    <a href="httpsy://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-    alt="photoshop" width="40" height="40" /> </a>
     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
     alt="csharp" width="40" height="40" /> </a>
@@ -101,9 +98,7 @@
 <tr>
 <td>
   <li>Fontend</li>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-    alt="javascript" width="40" height="40" /> </a>
+   <p>
     <a href="https://angular.io" target="_blank" rel="noreferrer"> <img
     src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40"
     height="40" /> </a>
@@ -118,7 +113,7 @@
     </p>
   <td>
     <li>I like draw and paint in my free time</li>
-   <li>I do cosplay for love of the art</li>
+   <li>also i do cosplay, some times</li>
    <li>I love cats</li>
    <li>Call me Luna, plz!</li>
   </td>
