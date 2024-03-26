@@ -102,7 +102,7 @@
 <td>
   <li>Angular</li>
   <li>Kotlin for Mobile Applications</li>
-  <li>Backend... sometimes</li>
+  <li>Spring Boot ;-; </li>
    <p>
     <p>And another stuffs like...
     <li>How to upload myself on internet </li>
