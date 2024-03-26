@@ -100,8 +100,8 @@
 </td>
 <tr>
 <td>
-  <li>Fontend</li>
-  <li>Mobile Applications</li>
+  <li>Angular</li>
+  <li>Kotlin for Mobile Applications</li>
   <li>Backend... sometimes</li>
    <p>
     <p>And another stuffs like...
