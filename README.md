@@ -37,7 +37,7 @@
     </td>
     <td>
        
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=wlybfcvmjqkdo9gffdshathq5&cover_image=true&theme=natemoo-re&show_offline=true&background_color=3584e4&interchange=false&bar_color=dc8add&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=wlybfcvmjqkdo9gffdshathq5&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=false&bar_color=844eb1&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=wlybfcvmjqkdo9gffdshathq5&redirect=true)
     </td>
    </tr>
   <tr>
