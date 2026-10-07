@@ -137,7 +137,7 @@
 * Next.js -.-
 * Kotlin for Mobile Applications :p
 * Better software architecture  uwu
-* How to upload myself onto the internet (might not)
+* How to upload myself onto the internet (bad idea)
 
 </td>
 
