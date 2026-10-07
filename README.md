@@ -133,11 +133,11 @@
 
 ## 🌱 Currently learning...
 
-* Angular
-* Kotlin for Mobile Applications
-* Spring Boot ;-;
-* Better software architecture
-* How to upload myself onto the internet
+* Vue :c
+* Next.js -.-
+* Kotlin for Mobile Applications :p
+* Better software architecture  uwu
+* How to upload myself onto the internet (might not)
 
 </td>
 
@@ -163,12 +163,7 @@
 
 ## 🎧 What am I listening to?
 
-<a href="https://open.spotify.com/">
-
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=wlybfcvmjqkdo9gffdshathq5&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=false&bar_color=844eb1&bar_color_cover=true"/>
-
-</a>
-
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=wlybfcvmjqkdo9gffdshathq5&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=6c4eb1)](https://spotify-github-profile.kittinanx.com/api/view?uid=wlybfcvmjqkdo9gffdshathq5&redirect=true)
 </div>
 
 ---
